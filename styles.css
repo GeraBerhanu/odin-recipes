@@ -1,5 +1,21 @@
 .title{
+        font-size: 36px;
         text-align: center;
         font-weight: bolder;
         color: red;
+
+}
+
+.button{
+        background-color: pink;
+        color: black;
+        font-size: 22px;
+        padding: 6px 12px;
+        margin: 12px;
+
+}
+
+.text-center{
+        text-align: center;
+
 }
